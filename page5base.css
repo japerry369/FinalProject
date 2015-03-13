@@ -1,0 +1,16 @@
+#wrapper  {
+	border:12px solid #cd9575;
+	
+}
+
+#nav {
+	background-color: black;
+	text-align: center;
+	padding-top:75px;
+	color:white;
+
+}
+#content{
+	padding-top:100px;
+
+}

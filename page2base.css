@@ -1,0 +1,39 @@
+#wrapper  {
+	
+}
+
+#nav {
+	background-color: red;
+	text-align: center;
+	padding-top:200px;
+	color:white;
+}
+
+#image {
+	padding-right:100px;
+}
+
+#content2{
+	background-color: blue;
+	text-align: center;
+	padding-bottom:100px;
+	color:white;
+}
+#content2 {
+	text-decoration: white;
+	font-size:20px;
+	padding-top:10px;
+	padding-left:auto;
+}
+#gallery {
+	padding:10px;
+}
+.margin {
+	width:85%;
+	margin:0 auto;
+
+}
+
+
+
+

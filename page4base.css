@@ -1,0 +1,46 @@
+#wrapper  {
+
+}
+
+#nav {
+	background-color: black;
+	text-align: center;
+	padding-top:75px;
+	color:white;
+
+}
+#h2 {
+	text-align: center;
+
+}
+#button {
+	padding-top:25px;
+	padding-right:100px;
+}
+
+
+img {
+	width:190px;
+}
+
+#input {
+	padding-top:100px;
+
+}
+#contact_name{
+	padding-top:25px;
+}
+#your_email{
+	padding-top:25px;
+}
+#your_phone{
+	padding-top:25px;
+}
+#your_message{
+	padding-top:200px;
+	padding-right:700px;
+	width:100%;
+}
+#footer {
+	background-color: black;
+}
